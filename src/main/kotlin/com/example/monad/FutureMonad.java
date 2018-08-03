@@ -1,9 +1,8 @@
-package com.example.demo;
+package com.example.monad;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
-import java.util.function.Supplier;
 
 public class FutureMonad<T> extends Monad<FutureMonad<T>, T> {
 

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.monad;
 
 import java.util.NoSuchElementException;
 import java.util.function.Function;

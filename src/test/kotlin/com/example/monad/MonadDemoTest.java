@@ -1,11 +1,9 @@
-package com.example.demo;
+package com.example.monad;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.concurrent.CompletableFuture;
-import java.util.function.Function;
-import java.util.function.Supplier;
 
 public class MonadDemoTest {
 
